@@ -1,0 +1,5 @@
+package io.github.carolsimoes.controller;
+
+public class EventoBean {
+
+}

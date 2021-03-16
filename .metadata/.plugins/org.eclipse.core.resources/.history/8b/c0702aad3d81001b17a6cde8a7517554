@@ -1,0 +1,5 @@
+package io.github.carolsimoes.model;
+
+public class Evento {
+
+}
